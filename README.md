@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This directory includes a few sample datasets to get you started.
 
 *   `california_housing_data*.csv` is California housing data from the 1990 US
@@ -17,3 +18,7 @@ This directory includes a few sample datasets to get you started.
 
     and our copy was prepared by the
     [vega_datasets library](https://github.com/altair-viz/vega_datasets/blob/4f67bdaad10f45e3549984e17e1b3088c731503d/vega_datasets/_data/anscombe.json).
+=======
+# ObjectTracker
+Object Tracking System using YOLOv8 + DeepSORT. Detects objects and tracks them across frames. Applications include counting people, monitoring traffic, and tracking players in sports. Built with YOLOv8, OpenCV, and DeepSORT for accurate real-time tracking.
+>>>>>>> ae4975f469b3ecc637a8b5bc8552251eeb95df14
